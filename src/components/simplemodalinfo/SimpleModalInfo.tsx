@@ -1,5 +1,4 @@
 import React from "react";
-import "../../translations/i18n";
 import MuiDialogTitle from "@material-ui/core/DialogTitle";
 import MuiDialogContent from "@material-ui/core/DialogContent";
 import { createStyles, Dialog, IconButton, Theme, Typography, WithStyles, withStyles } from "@material-ui/core";
